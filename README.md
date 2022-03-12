@@ -1,1 +1,1 @@
-# odin-recipes
+This is a simple index page which will provide links to recipes, it is intended to showcase my ability to utilize core HTML tools and concepts.
